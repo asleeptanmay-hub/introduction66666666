@@ -1,0 +1,1 @@
+print("my name is tanmay \nim learning python \nim enjoying it \nim batman")
